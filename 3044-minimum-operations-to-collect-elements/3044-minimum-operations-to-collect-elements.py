@@ -4,7 +4,7 @@ class Solution(object):
 
         result = []
 
-        # MONE MONE, MONE MOOOONEE
+        # CHANGES
 
         for x in reversed(nums): # [1,3,5,2,3]
             result.append(x)
